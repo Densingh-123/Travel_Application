@@ -69,4 +69,18 @@ Follow these steps to set up the project on your local machine:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/travel-companion.git
+   git clone https://github.com/Densingh-123/travel-companion.git
+
+   📂 travel-companion/
+├── 📁 android/                # Android-specific files
+├── 📁 assets/                 # Fonts, images, and other static assets
+├── 📁 components/             # Reusable UI components
+├── 📁 screens/                # Individual app screens
+├── 📁 navigation/             # Navigation logic (React Navigation)
+├── 📁 redux/                  # Redux state management (optional)
+├── 📁 services/               # API calls and services
+├── 📁 utils/                  # Utility functions
+├── App.js                     # Entry point of the app
+├── package.json               # Project dependencies and scripts
+└── README.md                  # Project documentation
+
